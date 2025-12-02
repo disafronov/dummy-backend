@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "express": "^5.2.0",
+    "express": "^5.2.1",
     "winston": "^3.18.3"
   }
 }
