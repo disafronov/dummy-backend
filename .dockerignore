@@ -2,6 +2,6 @@
 *
 
 # ...except essential
-!.eslintrc.json
-!index.js
-!package*.json
+!nginx.conf
+!static
+!static/**
