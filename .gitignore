@@ -2,15 +2,12 @@
 *
 
 # ...except essential
-!/.devcontainer
-!/.devcontainer/**
 !/.github
 !/.github/**
 !/.dockerignore
-!/.eslintrc.json
 !/.gitignore
-!/.hadolint.yaml
 !/Dockerfile
-!/index.js
-!/package*.json
 !/README.md
+!/nginx.conf
+!/static
+!/static/**
