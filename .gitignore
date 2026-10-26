@@ -6,7 +6,7 @@
 !/.github/**
 !/.dockerignore
 !/.gitignore
-!/.releaserc.json
+!/.releaserc.cjs
 !/Dockerfile
 !/README.md
 !/nginx.conf
