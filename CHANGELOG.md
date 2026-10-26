@@ -1,3 +1,9 @@
+## [0.1.8-rc.2](https://github.com/disafronov/dummy-backend/compare/v0.1.8-rc.1...v0.1.8-rc.2) (2026-10-26)
+
+### Bug Fixes
+
+* align semantic-release policy and committer sign-off ([98e92c9](https://github.com/disafronov/dummy-backend/commit/98e92c9b0c3411c2ebd7379346707389d77a823a))
+
 ## [0.1.8-rc.1](https://github.com/disafronov/dummy-backend/compare/v0.1.7...v0.1.8-rc.1) (2026-10-25)
 
 ### Bug Fixes
